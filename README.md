@@ -1,4 +1,4 @@
-![logo](https://github.com/Varun193/Varun193/blob/main/README.md)
+![logo](https://github.com/Varun193/Varun193/blob/main/github-header.png)
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
